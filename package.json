@@ -2,7 +2,7 @@
   "name": "react-auth-template",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://tsparticles.github.io/react-auth-template/",
+  "homepage": "https://tsparticles.github.io/react-glass-auth-template/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.2",
