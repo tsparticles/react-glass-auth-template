@@ -3,12 +3,18 @@
 tsParticles Simple Auth HTML Template made with Glassmorphism for React Web Sites/Applications
 
 ## Login Page Preview
-[![login](https://raw.githubusercontent.com/tsparticles/react-glass-auth-template/master/__screenshots/login.png)](https://tsparticles.github.io/react-glass-auth-template/#/login)
+
+[![login](https://raw.githubusercontent.com/tsparticles/react-glass-auth-template/master/__screenshots/login_light.png?raw=true)](https://tsparticles.github.io/react-glass-auth-template/#/login)
+
+[![login](https://raw.githubusercontent.com/tsparticles/react-glass-auth-template/master/__screenshots/login_dark.png?raw=true)](https://tsparticles.github.io/react-glass-auth-template/#/login)
 
 See working preview [here](https://tsparticles.github.io/react-glass-auth-template/#/login)
 
 ## Register Page Preview
-[![register](https://raw.githubusercontent.com/tsparticles/react-glass-auth-template/master/__screenshots/register.png)](https://tsparticles.github.io/react-glass-auth-template/#/register)
+
+[![register](https://raw.githubusercontent.com/tsparticles/glass-auth-template/master/__screenshots/register_light.png?raw=true)](https://tsparticles.github.io/react-glass-auth-template/#/register)
+
+[![register](https://raw.githubusercontent.com/tsparticles/glass-auth-template/master/__screenshots/register_dark.png?raw=true)](https://tsparticles.github.io/react-glass-auth-template/#/register)
 
 See working preview [here](https://tsparticles.github.io/react-glass-auth-template/#/register)
 
